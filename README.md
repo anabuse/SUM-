@@ -1,2 +1,2 @@
-# SUM-
-Github da categoria Sumõ de Lego da RoboIME
+# SUMO
+Github da categoria SumO de Lego da RoboIME
